@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+
 
 
 # Python script to scrape an article given the url of the article and store the extracted text in a file
